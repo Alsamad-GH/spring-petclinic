@@ -96,7 +96,7 @@ The Spring Petclinic "main" branch in the [spring-projects](https://github.com/s
 GitHub org is the "canonical" implementation, currently based on Spring Boot and Thymeleaf. There are
 [quite a few forks](https://spring-petclinic.github.io/docs/forks.html) in a special GitHub org
 [spring-petclinic](https://github.com/spring-petclinic). If you have a special interest in a different technology stack
-that could be used to implement the Pet Clinic then please join the community there see.
+that could be used to implement the Pet Clinic then please join the community there.
 
 
 ## Interaction with other open source projects
